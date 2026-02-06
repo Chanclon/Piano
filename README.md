@@ -6,7 +6,8 @@ A fully functional, real-time digital synthesizer implemented in **VHDL** on a *
 
 This project demonstrates hardware logic design, precise frequency generation, and memory management for audio signal processing.
 
-[![Watch the Demo Video](https://youtu.be/77ka91aeLu8)
+[![Watch the Demo Video]
+https://youtu.be/77ka91aeLu8
 > *Click the image above to watch the demo (sound on! 🔊)*
 
 ---
